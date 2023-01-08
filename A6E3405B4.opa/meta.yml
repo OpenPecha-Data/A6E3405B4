@@ -1,0 +1,19 @@
+id: A6E3405B4
+title: Guru Yoga Based on the Dü Sum Sangyé Prayer
+type: translation
+pechas:
+- I4C5ABB40
+- IE8AB7AF5
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:12:27.477614
+  last_modified_at: 2023-01-04 12:12:27.477631
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4C5ABB40/CB3D: F1D0
+  IE8AB7AF5/A205: F1D0
